@@ -4,8 +4,7 @@
       <h1>영화 예고편 검색</h1>
       <VideoSearch class="" @search-list="onSearchList"/>
       <div class="row">
-        <VideoItem class='col-12' v-bind:videos="videos" @video-select="onVideoSelect"/> 
-        
+        <VideoItem class='col-12' v-bind:videos="videos" @video-select="onVideoSelect"/>
       </div>
     </div>
   </div>
