@@ -38,7 +38,7 @@
 
 #### - Vue 구조
 
-![image-20200603235240323](C:\Users\175424\AppData\Roaming\Typora\typora-user-images\image-20200603235240323.png)
+![image-20200603235240323](C:\Users\175424\Desktop\vue_pjt\vue_pjt1\README.assets\image-20200603235240323.png)
 
 
 
